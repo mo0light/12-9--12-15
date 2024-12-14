@@ -7,5 +7,5 @@
 ## 一、安装与使用
 python下载，安装pip、numpy，安装opencv
 ## 二、图像输出
-
+![An all image](all.jpg)
 
